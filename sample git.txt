@@ -1,3 +1,7 @@
 This is my sample edit
 adding new line via git hub
+<<<<<<< Updated upstream
 adding new line via git hub -23
+=======
+adding new line in local and push where changes made to file by someone through GitHub without knowing that
+>>>>>>> Stashed changes
