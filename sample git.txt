@@ -7,3 +7,5 @@ adding new line in local and push where changes made to file by someone through 
 >>>>>>> Stashed changes
 
 added a line to find when i change the cmd to master to figure out the commit 
+
+adding new line via git hub -25
